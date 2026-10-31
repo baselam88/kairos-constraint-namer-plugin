@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Names the ONE binding constraint on a business's growth, plus 2-3 levers in sequence and a 90-day window.",
+  "keywords": [
+    "constraint",
+    "kairos",
+    "namer",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-constraint-namer",
+  "repository": "https://github.com/baselam88/kairos-constraint-namer-plugin",
+  "version": "0.1.0"
+}
